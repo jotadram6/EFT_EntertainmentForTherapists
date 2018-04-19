@@ -1,0 +1,67 @@
+MT>200:
+Number of events that passed full selection: 850 +- 29.1547594742
+Weighted number of events that passed full selection: 1429.40244913 +- 49.028099525
+MT>250:
+Number of events that passed full selection: 784 +- 28.0
+Weighted number of events that passed full selection: 1318.41355308 +- 47.0861983243
+MT>300:
+Number of events that passed full selection: 436 +- 20.8806130178
+Weighted number of events that passed full selection: 733.199373907 +- 35.1138816318
+MT>500:
+Number of events that passed full selection: 65 +- 8.0622577483
+Weighted number of events that passed full selection: 109.30724611 +- 13.5578952599
+
+From accumulative plot using g3data:
+MT>200:
+Total=2611.68+-42.48
+UpToQCD=719.33+-11.70
+UpToTTbar=487.91+-7.94
+UpToDY=99.44+-1.62
+Diboson=47.51+-0.77
+-------> Therefore:
+WJets=1892.35
+QCD=231.42
+TTbar=388.47
+
+MT>250:
+Total=2928.10+-47.63
+UpToQCD=652.45+-10.61
+UpToTTbar=484.33+-7.88
+UpToDY=86.22+-1.40
+Diboson=44.71+-0.73
+-------> Therefore:
+WJets=2275.65
+QCD=168.12
+TTbar=398.11
+
+MT>300:
+Total=2128.47+-34.62
+UpToQCD=382.09+-6.21
+UpToTTbar=329.90+-5.37
+UpToDY=58.48+-0.95
+Diboson=34.97+-0.57
+-------> Therefore:
+WJets=1746.38
+QCD=
+TTbar=
+
+MT>500:
+Total=187.80+-3.05
+UpToQCD=14.31+-0.23
+UpToTTbar=
+UpToDY=
+Diboson=
+-------> Therefore:
+WJets=173.49
+QCD=
+TTbar=
+
+Comparison results with WJets from paper:
+MT>200:
+Paper/Results=1892.35/1429.40=1.32
+MT>250:
+Paper/Results=2275.65/1318.41=1.73
+MT>300:
+Paper/Results=1746.38/733.20=2.38
+MT>500:
+Paper/Results=173.49/109.30=1.59

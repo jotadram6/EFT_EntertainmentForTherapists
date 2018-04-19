@@ -1,0 +1,32 @@
+MT>200:
+Number of events that passed full selection: 5020 +- 70.8519583357
+Weighted number of events that passed full selection: 1411.83871949 +- 19.9266012212
+MT>250:
+Number of events that passed full selection: 4659 +- 68.2568677863
+Weighted number of events that passed full selection: 1310.31007851 +- 19.1967507594
+MT>300:
+Number of events that passed full selection: 2777 +- 52.697248505
+Weighted number of events that passed full selection: 781.011180086 +- 14.8207202889
+MT>500:
+Number of events that passed full selection: 336 +- 18.3303027798
+Weighted number of events that passed full selection: 94.4975716633 +- 5.1552651802
+
+Comparison results with WJets from paper:
+MT>200:
+Paper/Results=1892.35/1411.84=1.34
+MT>250:
+Paper/Results=2275.65/1310.31=1.74
+MT>300:
+Paper/Results=1746.38/ 781.01=2.24
+MT>500:
+Paper/Results=173.49/94.50=1.84
+
+Applying 1.3 k-factor:
+MT>200:
+Paper/Results=1892.35/(1411.84*1.3)=1.03
+MT>250:
+Paper/Results=2275.65/(1310.31*1.3)=1.34
+MT>300:
+Paper/Results=1746.38/(781.01*1.3)=1.72
+MT>500:
+Paper/Results=173.49/(94.50*1.3)=1.41

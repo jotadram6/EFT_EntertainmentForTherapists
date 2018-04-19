@@ -1,0 +1,41 @@
+EXO-15-006
+
+Single-electron trigger: ET > 105 or 115 GeV and loose electron identification criteria
+
+The offline reconstructed pT  greater than 130 GeV
+
+Electron isolation in the tracker is ensured by requiring the pT sum of all tracks within a cone of
+∆R = 0.3 centered around the track of the electron candidate and originating
+from the same primary vertex, to be less than 5 GeV
+
+ECAL isolation is defined as the ET sum of the energy deposits within a ∆R= 0.3 cone
+around the electron candidate, ECAL isolation is required to be below 3% of the electron’s ET
+
+The HCAL isolation considers the energy deposits in the hadronic calorimeter within a cone of ∆R = 0.15 around the electron’s direction.
+It must be less than 5% of the electron’s energy deposit in the ECAL
+
+To reduce the Drell–Yan background events with additional electrons of ET > 35 GeV are rejected
+
+Muon isolation requires that the scalar pT sum of all tracks originating from the interaction vertex within a ∆R =0.3 cone around its direction, excluding the muon itself, be less than 10% of the muon’s pT
+
+To further reduce the Drell-Yan background the event must not have a second muon with pT > 25 GeV.
+
+the pseudorapidity region |η| <2.0 is used in the muon channel
+
+|∆φ(plT,pmissT)| > 2.5 -------> |Delta Phi (lepton pT, Mising transverse momentum)| > 2.5
+
+0.4 < pT(l)/EmissT < 1.5
+
+Results:
+
+Electron channel:
+
+		MT>500		MT>1000		MT>1500		
+Data 		230		11 		1.0
+SM Background 	246 ± 18 	14.3 ± 1.2 	1.9 ± 0.2
+
+Muon channel:
+
+		MT>500		MT>1000		MT>1500		
+Data		220 		10 		0
+SM Background 	251.5 ± 8.8 	13.0 ± 1.2 	1.8 ± 0.3
